@@ -11,6 +11,7 @@ Steps to contribute:
 --> To create and checkout a branch type : git checkout -b yourz-branch
 --> Make the changes you want and then add the file you made changes to like: git add your_file
 --> After all changes are made, commit them by : git commit 
---> Then to push your code just type : git push --upstream origin your_branch
+--> Then to push your code just type : git push --set-upstream origin new_con
+
 
 Thats All ! DOne ! Congrats you have contributed to Open Source!!
