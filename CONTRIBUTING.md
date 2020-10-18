@@ -8,10 +8,10 @@ Steps to contribute:
 --> First fork the repo you want.
 --> Then open the command line or the Terminal clone the repo you want and type : git clone your_url
 --> After that, type : cd your_repo
---> To create and checkout a branch type : git checkout -b yourz-branch
+--> To create and checkout a branch type : git checkout -b your-branch
 --> Make the changes you want and then add the file you made changes to like: git add your_file
 --> After all changes are made, commit them by : git commit 
---> Then to push your code just type : git push --set-upstream origin new_con
+--> Then to push your code just type : git push --set-upstream origin your-branch
 
 
 Thats All ! DOne ! Congrats you have contributed to Open Source!!
