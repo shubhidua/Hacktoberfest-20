@@ -13,7 +13,7 @@ You can read the official details and rules at the Hacktoberfest website. Check 
 
 </br>
 
-# Check out the awesome list of swags you can win in Hacktoberfest
+### **Check out the awesome list of swags you can win in Hacktoberfest**
 [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/)
 
 
